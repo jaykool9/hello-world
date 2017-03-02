@@ -1,2 +1,3 @@
 # hello-world
-This is a simple get-started setup with Github!
+
+Hello, i like coding!
